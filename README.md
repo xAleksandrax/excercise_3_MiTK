@@ -6,11 +6,6 @@ This Python script demonstrates secure password storage and verification using S
 
 The script provides a class `PasswordVerification` for managing secure password storage and verification in an SQLite database. It utilizes PBKDF2-HMAC with SHA-256 algorithm for hashing passwords and uses randomly generated salts to increase security.
 
-## Requirements
-
-- Python 3.x
-- SQLite3
-
 ## Usage
 
 1. Run the script `exercise_3.py`.
