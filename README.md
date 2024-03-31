@@ -1,4 +1,4 @@
-# Secure Password Management with SQLite
+# Password Verification with SQLite
 
 This Python script demonstrates secure password storage and verification using SQLite database.
 
